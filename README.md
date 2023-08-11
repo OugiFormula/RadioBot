@@ -2,6 +2,9 @@
 
 The Internet Radio Discord Bot allows you to play your internet radio stations in your Discord voice channels. Enjoy endless music streaming and share your favorite radio station with your server members!
 
+Add Twilight Jukebox to your discord server to check out this bot and how it works.
+https://discord.com/api/oauth2/authorize?client_id=1124004480560681081&permissions=3145728&scope=bot
+
 ## Features
 
 - Play internet radio station in voice channels.
@@ -49,7 +52,7 @@ The Internet Radio Discord Bot allows you to play your internet radio stations i
 all the commands are discord slash commands
    - `/play`: Play the radio station.
    - `/stop`: Stop playback and leave the voice channel.
-   - `/nowplaying`: Display the currently playing station..
+   - `/nowplaying`: Display the currently playing station.
    - `/help`: Display the list of commands.
 
 
